@@ -1,5 +1,5 @@
 # review-intelligence-dashboard
-# Review Intelligence Dashboard
+
 
 ## 📌 Problem
 Ecommerce brands receive thousands of customer reviews across platforms like Amazon and Flipkart every month.  
